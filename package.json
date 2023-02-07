@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Andrii-Pershko.github.io/project_team-9",
+  "homepage": "https://AleksandrHRV.github.io/new-ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project_team-9/"
+    "build": "parcel build src/*.html --public-url /new-ice-cream/"
   },
   "repository": {
     "type": "git",
