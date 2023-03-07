@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://AleksandrHRV.github.io/new-ice-cream",
   "scripts": {
-    "start": "parcel src/*.html",
+    "start": "parcel src/*.html -p 9999",
     "build": "parcel build src/*.html --public-url /new-ice-cream/"
   },
   "repository": {
